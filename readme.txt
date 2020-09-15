@@ -3,6 +3,4 @@
 7777
 8888
 bbbb
-aaaa
-cccc
 
